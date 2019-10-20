@@ -1,0 +1,45 @@
+<!--
+项目名称:图片轮播
+版本:V1.0
+负责人:邬恒宇
+时间:2019-10-17
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>图片轮播</title>
+    <!-- 引入外部样式-->
+    <link type="text/css" rel="styleSheet"  href="./style/style.css" />
+</head>
+<body>
+
+    <div id="content">
+        <!--图片存放列表-->
+        <ul id="img-list">
+            <li class="active"><img class="active" id="img1" src="./image/01.png"></li>
+            <li><img id="img2" src="./image/02.png"></li>
+            <li><img id="img3" src="./image/03.png"></li>
+            <li><img id="img4" src="./image/04.png"></li>
+            <li><img id="img5" src="./image/05.png"></li>
+            <li><img id="img6" src="./image/06.png"></li>
+        </ul>
+        <!-- 定义圆点-->
+        <div id="point">
+           <ul>
+               <li class="active-point"></li>
+               <li></li>
+               <li></li>
+               <li></li>
+               <li></li>
+               <li></li>
+           </ul>
+        </div>
+        <!-- 定义左右箭头 -->
+        <div id="btn-prev" class="btn-ctrl">&lt;</div>
+        <div id="btn-next" class="btn-ctrl">&gt;</div>
+    </div>
+</body>
+<!--引入外部js代码-->
+<script type="text/javascript" src="./js/roll.js"></script>
+</html>
