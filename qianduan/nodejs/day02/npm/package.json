@@ -1,0 +1,21 @@
+{
+  "name": "my-mpm",
+  "version": "0.0.1",
+  "description": "我的项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "css",
+    "html"
+  ],
+  "author": "wuhy",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}

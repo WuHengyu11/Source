@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0689d86-ca6c-4fd4-8ad0-56f4030f74ba" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="nodejs" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SMD5Kzf6zjF2IgOxAK9iX7Dsxq" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="LESS" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chatRoom" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chatRoom" />
+      <recent name="$PROJECT_DIR$/../qianduan/Nodejs/day02/npm" />
+      <recent name="$PROJECT_DIR$/../qianduan/Nodejs/day01/demo02/img" />
+      <recent name="$PROJECT_DIR$/../qianduan/debounce2" />
+      <recent name="$PROJECT_DIR$/../qianduan/debounce" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fileServer" />
+      <recent name="$PROJECT_DIR$/day03/files" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../qianduan/Nodejs/day01/demo02/js" />
+      <recent name="$PROJECT_DIR$/../qianduan/Nodejs/day01/demo02" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.client.js">
+    <configuration name="client.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chatRoom1/client.js" working-dir="$PROJECT_DIR$/chatRoom1">
+      <method v="2" />
+    </configuration>
+    <configuration name="client.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chatRoom/client.js" working-dir="$PROJECT_DIR$/chatRoom">
+      <method v="2" />
+    </configuration>
+    <configuration name="netClient.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chatRoom/netClient.js" working-dir="$PROJECT_DIR$/chatRoom">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chatRoom/server.js" working-dir="$PROJECT_DIR$/chatRoom">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chatRoom1/server.js" working-dir="$PROJECT_DIR$/chatRoom1">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.client.js" />
+        <item itemvalue="Node.js.server.js (1)" />
+        <item itemvalue="Node.js.client.js (1)" />
+        <item itemvalue="Node.js.server.js (2)" />
+        <item itemvalue="Node.js.netClient.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0689d86-ca6c-4fd4-8ad0-56f4030f74ba" name="Default Changelist" comment="" />
+      <created>1571364386089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571364386089</updated>
+      <workItem from="1571364387292" duration="1478000" />
+      <workItem from="1571370351530" duration="3649000" />
+      <workItem from="1571713782434" duration="599000" />
+      <workItem from="1571824791103" duration="55000" />
+      <workItem from="1571836136416" duration="1153000" />
+      <workItem from="1571901578795" duration="2721000" />
+      <workItem from="1571904790430" duration="2513000" />
+      <workItem from="1571917179756" duration="113000" />
+      <workItem from="1571917303459" duration="22000" />
+      <workItem from="1571917594092" duration="7177000" />
+      <workItem from="1572071327740" duration="35261000" />
+      <workItem from="1572250232081" duration="5148000" />
+      <workItem from="1572265539987" duration="30119000" />
+      <workItem from="1572489223199" duration="11500000" />
+      <workItem from="1572513803162" duration="9230000" />
+      <workItem from="1572574619857" duration="7576000" />
+      <workItem from="1572672934840" duration="982000" />
+      <workItem from="1572674055882" duration="3795000" />
+      <workItem from="1572700294981" duration="634000" />
+      <workItem from="1572937420203" duration="81000" />
+      <workItem from="1573278076233" duration="98000" />
+      <workItem from="1573523918920" duration="8340000" />
+      <workItem from="1573551616916" duration="2447000" />
+      <workItem from="1573561034142" duration="1288000" />
+      <workItem from="1573609725857" duration="3198000" />
+      <workItem from="1573613916019" duration="14119000" />
+      <workItem from="1573695840978" duration="1126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

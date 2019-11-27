@@ -1,0 +1,19 @@
+{
+  "name": "frist1234",
+  "version": "1.0.0",
+  "description": "第一个发布包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "css",
+    "html"
+  ],
+  "author": "wuhy_a",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
